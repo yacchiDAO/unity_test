@@ -1,0 +1,16 @@
+{
+"companyName": "yacchi",
+"productName": "Roulette",
+"productVersion": "0.1",
+"dataUrl": "Roulette_Web.data.unityweb",
+"wasmCodeUrl": "Roulette_Web.wasm.code.unityweb",
+"wasmFrameworkUrl": "Roulette_Web.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.12f1"
+}
